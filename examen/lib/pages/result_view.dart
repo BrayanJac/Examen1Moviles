@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../widgets/colores.dart';
+import '../widgets/atoms/colores.dart';
 
 class ResultadoView extends StatelessWidget {
   final String resultado;

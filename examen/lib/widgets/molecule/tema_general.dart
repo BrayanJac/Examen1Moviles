@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'colores.dart';
-import 'tipografia.dart';
+import '../atoms/colores.dart';
+import '../atoms/tipografia.dart';
 
 class TemaGeneral {
   static ThemeData appTheme = ThemeData(

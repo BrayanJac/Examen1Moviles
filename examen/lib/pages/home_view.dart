@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../controller/arbol_controller.dart';
-import '../widgets/colores.dart';
+import '../widgets/atoms/colores.dart';
 import 'result_view.dart';
 
 class HomeView extends StatefulWidget {

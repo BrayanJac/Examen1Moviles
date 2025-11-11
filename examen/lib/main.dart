@@ -1,6 +1,6 @@
-import 'widgets/tema_general.dart';
+import 'widgets/molecule/tema_general.dart';
 import 'package:flutter/material.dart';
-import 'view/home_view.dart';
+import 'pages/home_view.dart';
 
 void main() {
   runApp(const MyApp());
